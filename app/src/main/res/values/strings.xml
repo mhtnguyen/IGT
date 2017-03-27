@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CodeTest</string>
+    <string name="ok">OK</string>
+    <string name="try_again">Please try again later.</string>
+    <string name="failed_title">Failed to retrieve data.</string>
+    <string name="internet_not_available">Internet not available</string>
+    <string name="check_connection">Please check your data connection and try again.</string>
+
+</resources>
